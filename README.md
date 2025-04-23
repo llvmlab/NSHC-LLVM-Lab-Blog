@@ -28,6 +28,6 @@ Commercialized in 2019, it offers full support for modern LLVM/Swift, with CI/CD
 
 📍 Contact  
 806 J-Platz, 186 Gasan Digital 1-ro, Geumcheon-gu, Seoul, 08502, Korea  
-📞 +82-2-6951-3999  ✉️ llvmlab@nshc.net  
+📞 +82-2-6951-3999  ✉️ llvmlab[at]nshc[dot]net  
 
 

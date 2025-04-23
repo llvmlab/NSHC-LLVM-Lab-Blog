@@ -19,12 +19,12 @@ Formal verification tools like Alive2 and KLEE, built on SMT solvers
 Domain-specific compilers with HW/SW co-design, using FPGAs and GPUs to enhance security and performance
 
 🚀 Key Achievements
-LxShield is a mature LLVM-based obfuscation solution, widely used in the Korean financial sector.
+LxShield is a mature LLVM-based obfuscation solution, widely used in the Korean financial sector.  
 Commercialized in 2019, it offers full support for modern LLVM/Swift, with CI/CD and end-to-end compiler workflows.
 
 🛠️ Expected Updates Soon
-📚 Introductory materials and internal training guides for new team members
-🧱 Ongoing development of a sandbox-driven, cyber-resilient compiler software stack
+📚 Introductory materials and internal training guides for new team members  
+🧱 Ongoing development of a sandbox-driven, cyber-resilient compiler software stack  
 ✅ Prototyping and validation of LLVM IR transformations using Alive2  
 
 
